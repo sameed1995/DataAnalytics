@@ -1,0 +1,1 @@
+The file contains hospital data from Texas which was obtained from the following source https://healthdata.dshs.texas.gov/dashboard/hospitals/texas-hospital-data. Data from different datasets was compiled into a single Power BI file for analysis.
