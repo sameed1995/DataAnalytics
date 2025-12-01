@@ -1,0 +1,1 @@
+The file contains hospital discharge data from California for the year 2024. The dataset was obtained from the following link https://data.chhs.ca.gov/dataset/hospital-inpatient-characteristics-by-facility-pivot-profile.
